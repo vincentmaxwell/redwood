@@ -14,7 +14,9 @@
     "formulahendry.docker-explorer",
     "formulahendry.docker-extension-pack",
     "decoupled.redwoodjs-ide",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag"
   ],
   "unwantedRecommendations": []
 }
