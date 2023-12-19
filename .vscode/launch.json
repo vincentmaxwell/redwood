@@ -21,14 +21,14 @@
       "restart": true
     },
     {
-      "command": "yarn redwood test api",
-      "name": "Test api",
+      "command": "yarn redwood storybook",
+      "name": "Storybook",
       "request": "launch",
       "type": "node-terminal"
     },
     {
-      "command": "yarn redwood test web",
-      "name": "Test web",
+      "command": "yarn redwood prisma studio",
+      "name": "Prisma Studio",
       "request": "launch",
       "type": "node-terminal"
     },

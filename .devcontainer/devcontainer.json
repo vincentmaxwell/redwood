@@ -26,7 +26,15 @@
     "5432": {
       "label": "Database",
       "onAutoForward": "openPreview"
+    },
+    "5555": {
+      "label": "Prisma Studio",
+      "onAutoForward": "openPreview"
+    },
+    "7910": {
+      "label": "Storybook",
+      "onAutoForward": "openPreview"
     }
   },
-  "forwardPorts": [8910, 8911, 5432]
+  "forwardPorts": [8910, 8911, 5432, 5555, 7910]
 }
