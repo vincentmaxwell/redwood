@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "ofhumanbondage.react-proptypes-intellisense",
+    "mgmcdermott.vscode-language-babel",
+    "wix.vscode-import-cost",
+    "pflannery.vscode-versionlens",
+    "editorconfig.editorconfig",
+    "prisma.prisma",
+    "graphql.vscode-graphql",
+    "github.copilot",
+    "github.copilot-chat",
+    "ms-azuretools.vscode-docker",
+    "formulahendry.docker-explorer",
+    "formulahendry.docker-extension-pack",
+    "decoupled.redwoodjs-ide",
+    "vscode-icons-team.vscode-icons"
+  ],
+  "unwantedRecommendations": []
+}
