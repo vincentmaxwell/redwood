@@ -19,3 +19,12 @@ handlePrismaLogging({
   logger,
   logLevels: ['info', 'warn', 'error'],
 })
+
+const CODESPACE_NAME = process.env.CODESPACE_NAME
+const WEBSITE = `https://${CODESPACE_NAME}-8910.preview.app.github.dev`
+const GRAPHQL_PLAYGROUND = `https://${CODESPACE_NAME}-8911.preview.app.github.dev/graphql`
+const PRISMA_STUDIO = `https://${CODESPACE_NAME}-5555.preview.app.github.dev`
+
+logger.info(`Website: ${WEBSITE}`)
+logger.info(`Database Playground: ${GRAPHQL_PLAYGROUND}`)
+logger.info(`Prisma Studio: ${PRISMA_STUDIO}`)

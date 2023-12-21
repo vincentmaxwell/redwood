@@ -16,7 +16,9 @@
     "decoupled.redwoodjs-ide",
     "vscode-icons-team.vscode-icons",
     "formulahendry.auto-rename-tag",
-    "formulahendry.auto-close-tag"
+    "formulahendry.auto-close-tag",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss"
   ],
   "unwantedRecommendations": []
 }
