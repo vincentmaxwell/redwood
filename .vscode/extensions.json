@@ -4,7 +4,6 @@
     "ofhumanbondage.react-proptypes-intellisense",
     "mgmcdermott.vscode-language-babel",
     "wix.vscode-import-cost",
-    "pflannery.vscode-versionlens",
     "editorconfig.editorconfig",
     "prisma.prisma",
     "graphql.vscode-graphql",
@@ -18,7 +17,12 @@
     "formulahendry.auto-rename-tag",
     "formulahendry.auto-close-tag",
     "csstools.postcss",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "ms-vsliveshare.vsliveshare",
+    "wayou.vscode-todo-highlight",
+    "usernamehw.errorlens"
   ],
   "unwantedRecommendations": []
 }
