@@ -1,14 +1,14 @@
 import { render } from '@redwoodjs/testing/web'
 
-import HomePage from './HomePage'
+import LoggedOutLayout from './LoggedOutLayout'
 
 //   Improve this test with help from the Redwood Testing Doc:
 //   https://redwoodjs.com/docs/testing#testing-pages-layouts
 
-describe('HomePage', () => {
+describe('LoggedOutLayout', () => {
   it('renders successfully', () => {
     expect(() => {
-      render(<HomePage />)
+      render(<LoggedOutLayout />)
     }).not.toThrow()
   })
 })
